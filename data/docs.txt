@@ -1,0 +1,5 @@
+Employee leave policy and vacation rules
+Company work from home guidelines
+Medical insurance benefits for employees
+Python FastAPI backend tutorial
+Semantic search using embeddings
